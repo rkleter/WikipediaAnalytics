@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Courses/scalaspec/forcomp" value="1462331212000" />
+        <entry key="$USER_HOME$/Courses/scalaspec/funsets" value="1462334240000" />
+        <entry key="$USER_HOME$/Courses/scalaspec/objsets" value="1462337246000" />
+        <entry key="$USER_HOME$/Courses/scalaspec/patmat" value="1462394464000" />
+        <entry key="$USER_HOME$/Courses/scalaspec/recfun" value="1462387130000" />
+        <entry key="$USER_HOME$/Downloads/example" value="1459534374000" />
+        <entry key="$PROJECT_DIR$/../akka-in-action/chapter-testdriven" value="1472391862000" />
+        <entry key="$PROJECT_DIR$/../akka-in-action/chapter-up-and-running" value="1472391862000" />
+        <entry key="$USER_HOME$/akka-sample-fsm-scala" value="1469503216000" />
+        <entry key="$USER_HOME$/hello-akka" value="1469500663000" />
+        <entry key="$USER_HOME$/hello-akka-java8" value="1463882244000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
